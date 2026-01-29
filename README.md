@@ -52,4 +52,4 @@ Timeline: Nov 2025 → Sep 2026
 
 -----
 
-Course by DeepLearning.AI - Auditing free, certificates purchased upon completion.
+Course by DeepLearning.AI
