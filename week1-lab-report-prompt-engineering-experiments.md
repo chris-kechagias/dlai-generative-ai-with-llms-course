@@ -641,6 +641,8 @@ generation_config = GenerationConfig(
 
 ---
 
-**Document Created:** Week 1 Lab - Deep Learning AI Platform
+**Document:** Week 1 Lab - Deep Learning AI Platform
+
 **Course:** Agentic AI with LLMs
+
 **Focus:** Dialogue Summarization Performance Analysis
