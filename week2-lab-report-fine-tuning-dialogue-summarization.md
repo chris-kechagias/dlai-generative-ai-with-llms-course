@@ -190,3 +190,11 @@ The efficiency-performance tradeoff offered by PEFT makes it particularly attrac
 4. LoRA: Low-Rank Adaptation of Large Language Models. Hu et al., 2021. https://arxiv.org/abs/2106.09685
 5. ROUGE Metric - Wikipedia. https://en.wikipedia.org/wiki/ROUGE_(metric)
 6. Generative AI with Large Language Models - DeepLearning.AI. https://www.deeplearning.ai/courses/generative-ai-with-llms/
+
+---
+
+**Document:** Week 2 Lab - DeepLearning.AI Platform
+
+**Course:** Generative AI with LLMs
+
+**Focus:** Fine-Tuning FLAN-T5 with PEFT/LoRA for Dialogue Summarization
